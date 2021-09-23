@@ -1,6 +1,9 @@
-# BeAShark
+# CarherHams
 
-Desarrollar un programa orientado a que cada usuario pueda diseñar su propio portafolio de inversión en criptomonedas, indicando nombre del token en el que
-se invierte, margen de beneficio o pérdida (profit/loss), valor promedio de compra y opción de añadir depósitos, retiradas y transferencias adicionales.
+## Descripción del problema
 
-Incluye una sección en la que se muestra el top 20 criptomonedas ordenadas predeterminadamente según su capitalización de mercado. 
+Fomentar el consumo de los productos autóctonos de España a nivel internacional.
+
+## Descripción
+
+Desarrollar un sistema destinado a la venta y distribución de jamones y embutidos en el que cliente podrá elegir entre una amplia gama de productos clasificados por categorías incluyendo su correspondiente ficha técnica. 
