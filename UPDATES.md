@@ -1,7 +1,6 @@
-# BeAShark
+# CarherHams
 
-Se puede modificar el criterio de búsqueda y basarlo en margen de subida (o bajada) en las últimas 24 horas, un día, una semana, un mes, un año 
-o su histórico total desde su lanzamiento.
+Se pueden consultar los pedidos realizados por si se desea repetir alguno o comprobar su estado.
 
-Hay un apartado de información de cada cripto en particular proporcionando al usuario información más detallada sobre ella, gráficas de evolución, comparador con
-otros tokens y enlaces directos al whitepaper de la empresa, perfiles profesionales de los desarrolladores, página web principal y comunidad
+Existe sección de línea de tendencias en la que se muestra al usuario cómo fluctúa el mercado y ranking de productos.
+
