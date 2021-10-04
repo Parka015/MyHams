@@ -29,4 +29,12 @@ La aplicación recoge los datos de los usuarios que interactúan con ella para a
 - [HU3](https://github.com/NachoCarher/MyHams/issues/6) -> Como particular, quiero un asesoramiento sobre mis gustos y necesidades para poder encontrar así el producto más afín a mis preferencias.
 - [HU4](https://github.com/NachoCarher/MyHams/issues/7) -> Como empresario, quiero disponer de gráficas y datos estadísticos que me muestren cuales son los productos más demandados para poder adquirirlos e incrementar potencialmente las ventas de mi negocio.
 
- 
+
+## Milestones
+
+| **Milestone** | **Contenido** |
+| ------------- | --------------- 
+| [M0 - Diseño de estructuras de datos](https://github.com/NachoCarher/MyHams/milestone/4) | Planteamiento, estudio y desarrollo de las estructuras de datos o clases que darán pie al desarrollo futuro y evolución del proyecto sofware. |
+| [M1 - Recolección de datos](https://github.com/NachoCarher/MyHams/milestone/1) | Desarrollo del módulo encargado de obtener de los usuarios sus gustos y necesidades, almacenarlos y generar en base a ellos una lista de productos óptimos. |
+| [M2 - Programa estadístico](https://github.com/NachoCarher/MyHams/milestone/2) | Desarrollo de un programa que en función de los datos de las compras realizadas en diferentes períodos de tiempo pueda generar gráficas y datos estadísticos. |
+| [M3 - Interfaz de reseñas](https://github.com/NachoCarher/MyHams/milestone/3) | Desarrollar una interfaz en la que los usuarios valoran y realizan comentarios sobre los productos. También se pueden valorar las reseñas de otros clientes para que puedan ser filtradas por relevancia o fecha. |
