@@ -20,6 +20,13 @@ compre pues está suponiendo un producto exitoso para otros empresarios.
 
 - Miguel (Empresario): hombre de 33 años, nivel de estudios superior (graduado), habituado con frecuencia a usar el ordenador y el smartphone, quiere emprender su negocio de supermercados. No es del todo bueno organizando el inventario y las ventas de un negocio y necesita de un sistema que le guiara con la gestión.
 
+## User-journey
+
+"Como Miguel García (dueño de una carnicería en un pueblo de Granada), querría tener ayuda a la hora de organizar el inventario de mi negocio. Considero que una 
+visualización de datos estadísticos sobre las ventas de la carnicería sería una guía de gran importancia para saber cuáles son los productos que se venden mejor 
+y cuáles son aquellos que me están suponiendo un lastre y siendo poco rentables. Es algo que agradecería mucho, pues en el sector alimentario los productos que no se venden se acaban caducando, 
+eso se traduce en pérdidas y supone una cantidad de dinero que al final no puedo recuperar."
+
 ## Historias de usuario
 
 - [HU1](https://github.com/NachoCarher/MyHams/issues/4) -> Como empresario, quiero conocer las opiniones de los usuarios con respecto a un producto en concreto para saber si me sería rentable comprarlo para mi negocio. Me resulta interesante la opción de valorar un producto porque el sistema en función de mis gustos me recomendará productos afines a mí.
@@ -31,6 +38,6 @@ compre pues está suponiendo un producto exitoso para otros empresarios.
 | **Milestone** | **Contenido** |
 | ------------- | --------------- 
 | [M0 - Diseño de estructuras de datos](https://github.com/NachoCarher/MyHams/milestone/4) | Planteamiento, estudio y desarrollo de las estructuras de datos o clases que darán pie al desarrollo futuro y evolución del proyecto sofware. |
-| [M1 - Recolección de datos](https://github.com/NachoCarher/MyHams/milestone/1) | Desarrollo del módulo encargado de obtener de los usuarios sus gustos y necesidades, almacenarlos y generar en base a ellos una lista de productos óptimos. |
+| [M1 - Recolección de datos](https://github.com/NachoCarher/MyHams/milestone/1) | Desarrollo del módulo encargado de que en base a los datos que el usuario ha proporcionado sobre el estado de su inventario y sobre sus ventas, los almacena y genera una lista de recomendaciones enfocadas en aumentar las ganancias del negocio. |
 | [M2 - Programa estadístico](https://github.com/NachoCarher/MyHams/milestone/2) | Desarrollo de un programa que en función de los datos de las compras realizadas en diferentes períodos de tiempo pueda generar gráficas y datos estadísticos. |
 | [M3 - Interfaz de reseñas](https://github.com/NachoCarher/MyHams/milestone/3) | Desarrollar una interfaz en la que los usuarios valoran y realizan comentarios sobre los productos. También se pueden valorar las reseñas de otros clientes para que puedan ser filtradas por relevancia o fecha. |
