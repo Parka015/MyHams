@@ -1,3 +1,4 @@
 lenguaje: python
-entidad: modules/productos.py
-entidad: modules/productosVenta.py
+entidad: 
+  -modules/productos.py
+  -modules/productosVenta.py
