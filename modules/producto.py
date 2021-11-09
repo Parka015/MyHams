@@ -8,9 +8,7 @@ class Producto:
 
     def getNombre(self):
         return self.nombre
-	
-    def getEnVenta(self):
-        return self.en_venta
+
 	
     def getInformacion(self):
         return self.informacion
