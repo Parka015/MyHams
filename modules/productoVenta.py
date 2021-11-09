@@ -24,7 +24,3 @@ class productoVenta(Producto):
         return self.cantidad
     
 
-        
-a = productoVenta ("patata", "Verdura", 10, 20)
-
-print(f"nombre: {a.informacion}")
