@@ -1,13 +1,12 @@
+# -*- coding: utf-8 -*-
+# Para no duplicar informacion, todas los "productoVenta" que se creen debe ser
+# creados desde la clase "Productos" lo mismo ocurre con la eliminación
 
-#1)Para no duplicar informacion, todas los productosVenta que se creen debe ser
-#creados desde la clase Producto con el metodo "ponerEnVenta"
-#2)El resto de operaciones que sean sobre productoVenta estarán aqui
-#3)Para eliminar un productosVenta al igual como el punto uno, se hace desde Producto con "retirarDeVenta"
 
 from producto import *
 
 
-class productoVenta(Producto):
+class ProductoVenta(Producto):
     
     def __init__(self,nom,info, cantidad, precio):   
         
