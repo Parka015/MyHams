@@ -1,3 +1,5 @@
 lenguaje: python
-entidad: modules/empresario.py
+objetos_valor: 
+  -modules/producto.py
+  -modules/productoVenta.py
 
