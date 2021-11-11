@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 # Clase para almacenar la info de un producto
 
 class Producto:
