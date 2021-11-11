@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Clase para almacenar la info de un producto, debería estar dentro de algún objeto de la clase "Productos"
+# Clase para almacenar la info de un producto
 
 class Producto:
     def __init__(self, nom, info):

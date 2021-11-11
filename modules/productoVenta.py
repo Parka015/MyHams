@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# Para no duplicar informacion, todas los "productoVenta" que se creen debe ser
-# creados desde la clase "Productos" lo mismo ocurre con la eliminación
 
+# Clase para almacenar la info de un producto que esta en venta
 
 from producto import *
 
